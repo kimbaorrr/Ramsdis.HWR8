@@ -1,1 +1,0 @@
-powershell.exe -noprofile -executionpolicy unrestricted -File hwredu.ps1
